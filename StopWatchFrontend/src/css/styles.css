@@ -1,0 +1,45 @@
+* {
+    background-color: black;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.caption h1 {
+    color: aqua;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 80px;
+}
+
+.wrapper .time {
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* margin: 40px; */
+}
+
+.btn {
+    color: aqua;
+    border-radius: 6px;
+    height: 60px;
+    /* width: 130px; */
+    margin: 40px 20px;
+    /* background-color: white; */
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.btn-group {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
